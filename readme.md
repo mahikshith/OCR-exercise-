@@ -43,9 +43,9 @@ How they are interpreted:
 
 Metrics :
 
-
-Image	Document Type	CER (%) [gemma]	WER (%) [gemma]	CER2 (%) [Qwen2.5-VL]	WER2 (%) [Qwen2.5-VL]	Status (Overall)
-1	Antique Letter	0.08%	0.00%	2.15%	4.80%	Excellent
-2	AI OCR Notes	0.14%	0.40%	1.80%	3.50%	Excellent
-3	Notebook Page	0.31%	0.00%	2.45%	5.10%	Excellent
-4	Journal Entry	0.30%	1.23%	3.20%	7.40%	Very High
+| Image | Document Type | CER (%) [gemma] | WER (%) [gemma] | CER2 (%) [Qwen2.5-VL] | WER2 (%) [Qwen2.5-VL] | Status (Overall) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Antique Letter | 0.08% | 0.00% | 2.15% | 4.80% | Excellent |
+| 2 | AI OCR Notes | 0.14% | 0.40% | 1.80% | 3.50% | Excellent |
+| 3 | Notebook Page | 0.31% | 0.00% | 2.45% | 5.10% | Excellent |
+| 4 | Journal Entry | 0.30% | 1.23% | 3.20% | 7.40% | Very High |
