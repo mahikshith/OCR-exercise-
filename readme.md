@@ -1,4 +1,4 @@
-Used 4 different images with different set of handwritings to perform OCR using ollama gemma vs qwen 2.5
+Used 4 different images with different set of handwritings to perform OCR using ollama gemma vs qwen 2.5 from data folder
 
 
 Metrics :
@@ -52,4 +52,5 @@ Metrics :
 | 2 | AI OCR Notes | 0.14% | 0.40% | 1.80% | 3.50% | Excellent |
 | 3 | Notebook Page | 0.31% | 0.00% | 2.45% | 5.10% | Excellent |
 | 4 | Journal Entry | 0.30% | 1.23% | 3.20% | 7.40% | Very High |
+
 
