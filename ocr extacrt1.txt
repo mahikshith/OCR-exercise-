@@ -1,0 +1,105 @@
+﻿________________
+
+
+1. 0_yFrdexltAI3rTxDJ.txt (Antique Letter)
+words are very deficient, and with all the art & skill I
+am mistress of, can not produce one sentence, that
+will convey to you the least Idea of my family's distressing situation &
+feelings. Such things are better felt than described.
+I thought my affliction was beyond comparison
+great, & incapable of increase, even by the presence
+of the object, the sole cause of it. But here I
+found myself deceived mistaken. The sight
+of the object increased my affliction, and my
+grief which had a little subsided, returned with
+redoubled force. The afflictions sorrow of that
+my uncle's family appeared as distressing as great or more so, &
+Joined with other circumstances, the appearance
+of the Corps, the solemnity of the funeral, the
+procession to the meeting house, where an affecting
+sermon was there delivered, suitable to the occasion;
+the solemn procession from thence to the Grave,
+where the last office was done performed, to the remains
+of my dear departed brother in the and all in the
+most decent, regular & orderly manner, the cheer
+fulness willingness, & alacrity of those who assisted,
+(which I thought reflected honor not only upon the
+town
+________________
+
+
+2. image-771x1024_156936ba.txt (AI OCR Notes)
+31/3/24 AI OCR Tools
+Quite unusually for me, this essay started its life
+as a scribble in a notebook rather than something
+I typed into a markdown editor. A few weeks ago
+Tiago Forte made a short video suggesting that
+people can use GPT4-V to capture their hand-written
+notes digitally. I've been looking for a "smart"
+OCR tool that can process my terribly scratchy,
+spidery hand writing for many years and none have
+quite cut the mustard. But, I thought, why not
+give it a go. To my absolute surprise, GPT did
+a phenomenal job of parsing my scrawlings and
+spitting out text. I was seriously impressed.
+Handwriting OCR has now gone from a fun toy
+and conversation piece to something I can actually, seriously
+use in my workflow. So then, is GPT via ChatGPT
+the best option I've got for this task or are
+there any Foss tools and models that I could
+use instead?
+The Classic option: CRAFT-TRoCR
+I played with this a couple of years ago and
+it was reasonably good at certain content but only
+if I write in my very best hand writing all the time.
+And I don't do that because when I am taking
+notes in a meeting or something, I am thinking about
+the meeting, not my hand writing.
+How does CRAFT-TRoCR work? Are there any major
+differences? I'm guessing a big transformer model
+is able to maximise probability globally across the
+image + the generated text.
+68
+________________
+
+
+3. ocr-for-handwritten-documents-v0-os036yiv9xod1.txt (Notebook Page)
+Today is Thursday, October 20th – But it
+definitely feels like a Friday. I'm already
+considering making a second cup of
+coffee – and I haven't even finished my
+first. Do I have a problem?
+Sometimes I'll flip through older notes I've
+taken, and my handwriting is unrecognizable.
+Perhaps it depends on the type of pen I use?
+I've tried writing in all caps BUT IT LOOKS SO
+FORCED AND UNNATURAL.
+Often times, I'll just take notes on my
+laptop, but I still seem to gravitate toward
+pen and paper. Any advice on what to
+improve? I already feel stressed out looking
+back at what I've just written – it looks like
+3 different people wrote this!!
+________________
+
+
+4. Screenshot 2026-02-09 122824.txt (Journal Entry)
+i'm feeling a renewed sense of optimism and purpose in the new year.
+i suppose that it is to to be expected, but it makes it non the less a
+real feeling. often i have gotten down on myself in the face of kinks
+and jerks in the road, yet thankfully these habits seem to be
+fading as my mindfullness practice continues. i have to chuckle at
+just how helpful and insightful those little quotes are on my home
+screen, waking up to a new bit of insight every day keeps them from
+aging into cliché. this newfound calm and perspective has really helped
+me work through these recent familial issues, perhaps most unexpectedly
+in the expression of allowing me to be mindfull of my own actions and
+shortcomings. ha! stop i have just remembered the study in which it
+was shown that writing about an event that happened to you or an idea you
+can help you better proccess and understand. what if there was some
+way to be given daily prompts on different lenses to journal in, perhaps one
+day its a gritty noir, the next its a rom-com. may be it could prompt
+different characters in an internal family systems. or a sibling or friend
+maybe from an eternal diety or a stranger on the street. i must share
+this with josh and taya tout suite! it is also seven, i must conclude
+this entry now and rejoin the world.
